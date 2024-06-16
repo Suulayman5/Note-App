@@ -18,9 +18,6 @@
     font-size: 35px;
     font-weight: 600;
 }
-/* .container h1 img{
-    width: 60px;
-} */
 .container button{
     display: flex;
     align-items: center;
@@ -30,8 +27,8 @@
     outline: 0;
     border: 0;
     border-radius: 40px;
-    padding: 15px 25px;
-    margin: 30px 0 20px;
+    padding: 10px 20px;
+    margin: 30px 0 17px;
     cursor: pointer;
 }
 .input-box{
@@ -46,9 +43,12 @@
     outline: none;
     border-radius: 5px;
 }
-.input-box a{
+.input-box img{
 
     position: absolute;
+    width: 25px;
     bottom: 15px;
     right: 15px;
+    cursor: pointer;
+    /* color: chocolate; */
 }
